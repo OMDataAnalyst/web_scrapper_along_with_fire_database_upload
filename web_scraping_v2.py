@@ -31,15 +31,15 @@ for a in soup.findAll('div', attrs={'class': '_3pLy-c row'}):
 pd.plot(sinx(prices))
 
 firebaseConfig = {
-  "apiKey": "AIzaSyD-RVdcxd_6dskD1W6DdFA0KrMEnxcJVd4",
-  "authDomain": "fir-frompython.firebaseapp.com",
-  "databaseURL": "https://fir-frompython-default-rtdb.firebaseio.com",
-  "projectId": "fir-frompython",
-  "storageBucket": "fir-frompython.appspot.com",
-  "messagingSenderId": "529313000758",
-  "appId": "1:529313000758:web:ec25dcd2311c359fa61797",
-  "measurementId": "G-N4VQM7B0M6",
-    "databaseURL" : "https://fir-frompython-default-rtdb.firebaseio.com/"
+  "apiKey": "AIzaSyD-RVdcxd_6dddskD1W6DdFA0KrMEnxcJVd4",
+  "authDomain": "firdfg-frompython.firebadggfseapp.com",
+  "databaseURL": "https://firdfg-frompython-default-rtdb.firebdghdaseio.com",
+  "projectId": "fidgfr-fromdfghdpython",
+  "storageBucket": "fidfgdr-frompython.appspot.com",
+  "messagingSenderId": "529313533000758",
+  "appId": "1:529313000758:web:e45454c25dcd2311c359fa61797",
+  "measurementId": "G-N4VQ4545M7B0M6",
+    "databaseURL" : "https://fir-frompython-defsergdsfgault-rtdb.firebaseio.com/"
 }
 
 
